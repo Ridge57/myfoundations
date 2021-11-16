@@ -13,7 +13,7 @@
     "@react-native-community/masked-view": "^0.1.5",
     "assert": "^2.0.0",
     "assert-plus": "^1.0.0",
-    "aws-sdk": "^2.648.0",
+    "aws-sdk": "^2.814.0",
     "base-64": "^0.1.0",
     "body-parser": "^1.19.0",
     "dropbox-fetch": "^0.3.2",
